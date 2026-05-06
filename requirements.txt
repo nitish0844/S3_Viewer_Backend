@@ -1,6 +1,7 @@
 fastapi
-uvicorn[standard]
+uvicorn
 boto3
 python-multipart
-cryptography
+pycryptodome
 pydantic
+python-dotenv
